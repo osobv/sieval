@@ -13,6 +13,8 @@ Een artikel bestaat uit:
 4.	Price 
 
 # Uitvoering
-- API grotendeels gebaseerd op het Microsoft learn artikel [CRUD-bewerkingen uitvoeren met EF Core](https://learn.microsoft.com/nl-nl/training/modules/build-web-api-minimal-database/2-what-is-entity-framework-core).
-- Database: Microsoft SQL-Server (getest op SQL2017 + SQL2019).
-- Tabel 'Products' te vinden in folder [SQL](SQL) alsmede een scriptje die al wat waardes toevoegd.
+- API gebaseerd op het Microsoft learn artikel [CRUD-bewerkingen uitvoeren met EF Core](https://learn.microsoft.com/nl-nl/training/modules/build-web-api-minimal-database/2-what-is-entity-framework-core) en de [Entity Framwork Core](https://learn.microsoft.com/en-us/ef/core/) documentatie.
+- gebruikt Swagger voor`API testing
+- gebruikte database: MSSQL
+- folder [SQL](SQL) bevat scripts voor de tabel 'Products' en wat test data
+- folder [SievalAPI](SievalAPI) bevat de project code
