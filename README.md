@@ -11,3 +11,8 @@ Een artikel bestaat uit:
 2.	Sku
 3.	Name
 4.	Price 
+
+#Uitvoering
+API gebaseerd op het Microsoft learn artikel [CRUD-bewerkingen uitvoeren met EF Core](https://learn.microsoft.com/nl-nl/training/modules/build-web-api-minimal-database/2-what-is-entity-framework-core)
+Database: SQL-Server
+Tabel 'Products' te vinden in folder [SQL](SQL) alsmede een scriptje die al wat waardes toevoegd.
